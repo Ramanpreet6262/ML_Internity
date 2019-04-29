@@ -1,3 +1,3 @@
 # ML_Internity
 
-Repository of code implimentations of various machine learning algos.
+Repository of code implimentations of various machine learning algorithms in my Internity Internship.
